@@ -1,4 +1,4 @@
-# BlurFace-Recorder
+# BlurFace-Recorder F
 
 Proyek "BlurFace-Recorder" adalah aplikasi berbasis web untuk merekam video dari kamera (webcam) dan menerapkan efek blur pada wajah (face blurring) secara real-time atau pada rekaman, menggunakan OpenCV. Tujuan utamanya adalah meningkatkan privasi saat merekam atau menyimpan video yang melibatkan wajah manusia.
 
