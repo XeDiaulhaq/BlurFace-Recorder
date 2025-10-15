@@ -172,30 +172,6 @@ http://localhost:5000
 - Lebih ringan dibanding Gaussian
 
 ---
-
-## 📊 Struktur Direktori
-
-```
-BlurFace-Recorder/
-│
-├── app.py                 # Flask application utama
-├── requirements.txt       # Python dependencies
-│
-├── static/
-│   ├── css/
-│   │   └── style.css     # Styling
-│   ├── js/
-│   │   └── main.js       # JavaScript logic
-│   └── models/           # Model Haar Cascade/DNN
-│
-├── templates/
-│   └── index.html        # Halaman utama
-│
-└── README.md             # Dokumentasi
-```
-
----
-
 ## 🎯 Tujuan Proyek
 
 1. Membangun sistem berbasis web yang mampu melakukan pemburaman wajah secara realtime
@@ -220,17 +196,6 @@ BlurFace-Recorder/
 3. **Kondisi Pencahayaan**: Deteksi bisa gagal pada pencahayaan rendah
 4. **Sudut Wajah**: Kesulitan mendeteksi wajah dengan sudut ekstrem
 5. **Multi-Wajah**: Memerlukan optimasi tambahan untuk banyak wajah
-
----
-
-## 🔮 Pengembangan Masa Depan
-
-- [ ] Implementasi **WebSocket** untuk streaming yang lebih efisien
-- [ ] Upgrade ke **DNN** untuk deteksi lebih akurat
-- [ ] **GPU Acceleration** untuk performa lebih tinggi
-- [ ] **Multi-face tracking** yang lebih optimal
-- [ ] **Rekam dan simpan video** hasil blur
-- [ ] **Deteksi objek lain** selain wajah (plat nomor, dll)
 
 ---
 
