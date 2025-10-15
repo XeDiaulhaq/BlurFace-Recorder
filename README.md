@@ -150,11 +150,6 @@ http://localhost:5000
 ### Haar Cascade Classifier
 - ✅ **Kelebihan**: Ringan, cepat, cocok untuk perangkat low-spec
 - ⚠️ **Kekurangan**: Kurang akurat pada pencahayaan ekstrem
-
-### DNN (Deep Neural Network)
-- ✅ **Kelebihan**: Lebih akurat, tahan terhadap variasi sudut wajah
-- ⚠️ **Kekurangan**: Membutuhkan daya komputasi lebih besar
-
 ---
 
 ## 🎨 Teknik Pemburaman
@@ -166,11 +161,6 @@ http://localhost:5000
 ### 2. Pixelation (Block Blur)
 - Efek "mosaic" atau blok-blok besar
 - Menurunkan resolusi lokal
-
-### 3. Median/Box Blur
-- Efek seragam
-- Lebih ringan dibanding Gaussian
-
 ---
 ## 🎯 Tujuan Proyek
 
