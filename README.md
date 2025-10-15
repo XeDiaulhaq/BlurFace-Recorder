@@ -263,13 +263,18 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors & Contributors
 
-**XeDiaulhaq**
+**Project Lead**: [@XeDiaulhaq](https://github.com/XeDiaulhaq)
 
-- GitHub: [@XeDiaulhaq](https://github.com/XeDiaulhaq)
-- Repository: [BlurFace-Recorder](https://github.com/XeDiaulhaq/BlurFace-Recorder)
+**Contributors**: 
+[@Mpakmal](https://github.com/Mpakmal) • [@ZiiHubb](https://github.com/ZiiHubb) • [@wildanhkim](https://github.com/wildanhkim)
 
+---
+
+**Repository**: [BlurFace-Recorder](https://github.com/XeDiaulhaq/BlurFace-Recorder)
+
+*Terima kasih kepada semua kontributor! 🙏*
 ---
 
 ## 🙏 Acknowledgments
@@ -289,6 +294,5 @@ Jika ada pertanyaan atau issue, silakan:
 ---
 
 <p align="center">Made with ❤️ for Privacy Protection</p>
-```
 
 ---
