@@ -1,1 +1,14 @@
 .git
+/backend/app/services/recordings
+/venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
+*.sqlite3
+node_modules/
+dist/
+build/
+/backend/app/services/recordings/
